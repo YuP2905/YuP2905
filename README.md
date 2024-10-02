@@ -1,4 +1,4 @@
-## Hi there 👋
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=900&pause=1000&color=000000&center=true%C2%A0%E7%9C%9F%E7%9A%84&vCenter=true%C2%A0%E7%9C%9F%E7%9A%84&multiline=true&repeat=true%C2%A0%E7%9C%9F%E7%9A%84&random=true%C2%A0%E7%9C%9F%E7%9A%84&width=430&lines=Hi%2C+there%F0%9F%91%8B)](https://git.io/typing-svg)
 ## About Me
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&pause=1000&color=000000&vCenter=true&repeat=false&width=435&lines=Hi%2C+I'm+Yang+Yupeng.)](https://git.io/typing-svg)
 
