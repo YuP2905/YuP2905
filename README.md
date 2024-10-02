@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Yang+Yupeng)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&pause=1000&color=000000&vCenter=true&repeat=false&width=435&lines=Hi%2C+I'm+Yang+Yupeng.)](https://git.io/typing-svg)
 
 <!--
 **YuP2905/YuP2905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
