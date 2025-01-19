@@ -1,5 +1,5 @@
 ## Welcome to My GitHub!
-👋 Hi there! I'm passionate about deep learning algorithms, and front-end development.
+👋 Hi there! I'm passionate about deep learning algorithms, and full-stack development.
 
 🌐 Check out my personal homepage: [yup2905.github.io](https://yup2905.github.io/)
 
