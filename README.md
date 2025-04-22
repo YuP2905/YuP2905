@@ -7,9 +7,9 @@
 
 ### 🎯 2025 Goals
 
-- 🌞 **Develop an online simulation web app**
+- 🌞 **Develop an online simulation web app** (5%)
 	Utilize **Ladybug's Python library**, combined with **Vue** and **Three.js**, to create an interactive platform for online simulations.
-- 🧠 **Train precise vector graphic generation models**
-	Build and train models based on **DIT (Diffusion Transformer)** and **GCN (Graph Convolutional Networks)** to generate high-quality vector graphics.
-- 🛠️ **Master Rhino and Revit C# development**
+- 🧠 **Training accurate vector graphics generation models** (50%)
+	Design and train **deep learning systems** for **vector floor plan generation** by integrating **Diffusion models**, **GPT2 (Transformer)**, and **graph-based** modeling.
+- 🛠️ **Master Rhino and Revit C# development** (0%)
 	Achieve proficiency in **Rhino** and **Revit** using **C#**, and develop plugins for **model validation and detection**.
