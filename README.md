@@ -2,7 +2,7 @@
 👋 Hi there! I'm passionate about deep learning algorithms, and full-stack development.
 
 🌐 Check out my personal homepage: 
-+ [yup2905.github.io](https://yup2905.github.io/)
++ [yup2905.github.io](https://yup2905.github.io/?t=forceupdate#/)
 + [yup2905.github.io/yupfolio](https://yup2905.github.io/yupfolio/)
 
 💡 Always curious, always building. Let's create something amazing together! 🚀
