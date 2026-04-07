@@ -26,10 +26,12 @@ If you're working on something interesting, or have tough technical problems to 
   <code><img src="assets/svg/nodejs.svg" height="20" alt="Node.js" /></code>
   <code><img src="assets/svg/cloudflare.svg" height="20" alt="Cloudflare" /></code>
   <code ><img src="assets/svg/rhinoceros.svg" height="20" alt="Rhinoceros" /></code>
-  <code><img src="assets/svg/grasshopper.svg" height="20" alt="Grasshopper" style="border-radius: 50%;" /></code>
+  <code><img src="assets/svg/grasshopper.svg" height="20" alt="Grasshopper" /></code>
 </p>
 
 💡 Always curious, always building. Let's create something amazing together! 🚀
+
+
 
 ## 🎯 2026 Goals
 
